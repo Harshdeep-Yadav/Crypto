@@ -1,4 +1,5 @@
 # Getting Started with Create React App
+![image](https://github.com/Harshdeep-Yadav/Crypto/assets/93916215/f262a9cc-7862-411e-bf99-fc45ed427c44)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
